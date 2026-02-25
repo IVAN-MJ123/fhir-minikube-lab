@@ -1,0 +1,12 @@
+{
+  "resourceType": "Patient",
+  "name": [
+    {
+      "use": "official",
+      "family": "Gonzalez",
+      "given": ["Ana Maria"]
+    }
+  ],
+  "gender": "female",
+  "birthDate": "1990-01-01"
+}
